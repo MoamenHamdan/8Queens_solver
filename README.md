@@ -1,1 +1,1 @@
-# 8Queens_solver
+This project tackles the 8 Queens problem using various AI search algorithms, including Breadth-First Search (BFS), Depth-First Search (DFS), A*, Uniform Cost Search (UCS), and Iterative Deepening Search (IDS). The objective is to place 8 queens on a chessboard such that no two queens threaten each other. The solver explores and compares different search strategies to find optimal or efficient solutions.
